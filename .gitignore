@@ -1,0 +1,8 @@
+server.jar
+world/
+world_nether/
+world_the_end/
+plugins/
+cache/
+logs/
+*.log
